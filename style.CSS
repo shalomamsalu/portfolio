@@ -1,0 +1,95 @@
+body{
+   background-color: aquamarine;
+   background-size: cover;
+   background-repeat: no-repeaT;
+   background-image: url(image\ copy\ 9.png);
+   background: size 110px; ;
+}
+h1, h2 {
+color:rgb(0, 255, 13);
+text-align: center;
+font-size: 40px;
+
+}
+
+p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 42px;
+font-weight: 300;
+color: rgb(9, 255, 0)
+
+}
+#solid{
+border-style:double;
+border-width: 7px;
+text-align: center;
+color: rgb(226, 43, 43);
+font: size 30px;
+}
+.margin{
+margin: 100px;
+background-color: lightgrey;
+width: 1000px;
+border: 80px solid rgb(0, 2, 128);
+padding: 30px;
+height: 1640px;
+}
+.button{
+background-color: aliceblue;
+color: aqua;
+border: 2px;
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+transition: 0.4;
+}
+a{
+background-color: rgb(2, 0, 139);
+color: aliceblue;
+font-size: 24px;
+text-decoration: none;
+padding: 14px 25px;
+
+
+}
+a:hover{
+background-color: rgb(255, 0, 0);
+color: rgb(146, 210, 140);
+}
+table{
+font-size: 25px;
+background-color: rgb(251, 255, 0);
+color: rgb(7, 0, 100);
+padding: 5px;
+}
+footer{
+text-align: center;
+padding: 3px;
+background-color: rgb(250, 108, 13);
+color: ivory;
+font-size: 14px;
+
+}
+label{
+font-size: 25px;
+color: gold;
+text-align: center;
+background-color: navy;
+}
+input{
+font-size: 20px;
+color: rgb(38, 0, 255);
+text-align: center;
+background-color: rgb(240, 255, 242);
+}
+
+
+
+
+
+
+
+
+
